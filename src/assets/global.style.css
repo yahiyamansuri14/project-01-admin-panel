@@ -1,0 +1,265 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.font-size-8 {
+    font-size: 8px;
+}
+
+.font-size-16 {
+    font-size: 16px;
+}
+
+.font-size-24 {
+    font-size: 24px;
+}
+
+.font-size-32 {
+    font-size: 32px;
+}
+
+.height-50 {
+    height: 50px;
+}
+
+.height-100 {
+    height: 100px;
+}
+
+.height-200 {
+    height: 200px;
+}
+
+.background-color-green {
+    background-color: #00a859;
+}
+
+.text-white {
+    color: white;
+}
+
+.parent-menu-div {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.nav-link {
+    font-weight: bolder;
+    color: white !important;
+}
+
+.nav-link:hover {
+    background-color: yellow;
+    color: black !important; 
+}
+
+.card-header {
+    background-color: #00a859;
+    color: white;
+}
+
+.card-footer {
+    background-color: white !important;
+}
+
+.btn {
+    border: none !important;
+    border-radius: 0px;
+}
+
+.btn:focus {
+    outline: none;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.form-control {
+    border-radius: 0 !important;
+}
+
+.color-green {
+    color: #00a859;
+}
+
+.form-control:focus {
+    /* border: 1px solid black; */
+    /* border: 1px solid #00a859; */
+    border: 1px solid #1f5ce0;
+    outline: none !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+}
+
+.form-select {
+    border-radius: 0 !important;
+}
+
+.form-select:focus {
+    /* color: #1f5ce0; */
+    /* border: 1px solid black; */
+    border: 1px solid #1f5ce0;
+    outline: none !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+}
+
+.submit-button {
+    font-weight: bold;
+    background-color: #1f5ce0;
+    color: white;
+    border: none;
+    height: 50px;
+    width: 300px;
+}
+
+.itr-heading-text {
+    font-weight: bolder;
+    background-color: #1f5ce0;
+    color: white;
+}
+
+.footer {
+    background-color: #1f5ce0;
+    color: white;
+    font-weight: bolder;
+}
+
+.user-create-div {
+    cursor: pointer;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    background-color: #1f5ce0;
+    color: white;
+    text-align: center;
+}
+
+.table-border {
+    border: 1px solid black !important;
+}
+
+.table-box {
+    height: 50px;
+    font-weight: bolder;
+}
+
+.color-black {
+    color: black !important;
+}
+
+.home-widget-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.widget-card {
+    cursor: pointer;
+    height: 200px;
+    width: 350px;
+    margin: 10px;
+    border-radius: 20px;
+    position: relative;
+    
+}
+
+.widget-inner-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    top: 75px;
+    left: 150px;
+    position: absolute;
+    /* top: 35%;
+    left: 20%; */
+    font-size: 20px;
+}
+
+.color-blue {
+    color: blue;
+}
+
+.user-card {
+    background-color: #edecff;
+    border: 2px solid blue;
+    color: blue;
+}
+
+.product-card {
+    background-color: #f6f0df;
+    border: 2px solid #fbe29c;
+    color: #c89200;
+}
+
+.order-card {
+    background-color: #fff2f2;
+    border: 2px solid #ffc7c7;
+    color: #fc7676;
+}
+
+.recharge-card {
+    background-color: #AFE4D4;
+    border: 2px solid #72f1cb;
+    color: #017d58;
+}
+
+.itr-card {
+    background-color: #22a3d4;
+    border: 2px solid #00a7e9;
+    color: #054761;
+}
+
+.gst-card {
+    background-color: #3AE992;
+    border: 2px solid #00af58;
+    color: #016734;
+}
+
+.tds-card {
+    background-color: #f08989;
+    border: 2px solid #e40000;
+    color: #920000;
+}
+
+.heading-text {
+    display: block;
+    background-color: blue;
+    color: white;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.subheading-text {
+    display: block;
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    font-weight: bolder;
+    padding: 10px;
+}
+
+.table-data-cell {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.table {
+    border-radius: 4px !important;
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 14%) !important;
+}
+
+.box-style {
+    border-radius: 4px !important;
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 14%) !important;
+}
+
+.sidebar-style {
+    background-color: #ece8ff;
+}
